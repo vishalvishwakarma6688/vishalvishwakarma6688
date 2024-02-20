@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Jaykumar zade <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Vishal Vishwakarma <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"></h1>
 <div align= "center">
 <a href="#" align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=Full+Stack+Java+Developer+From+India"></img>
@@ -17,13 +17,13 @@
      
 <div>
 
-- 🔭 I’m currently working on *SpringBoot*
+- 🔭 I’m currently working on *React*
 
-- 🌱 I’m currently learning *Angular*
+- 🌱 I’m currently learning *Node Js*
 
 - 👯 I’m looking to collaborate on *Open Source Projects*
 
-- 📫 How to reach me *jaykumarzade@gmail.com*
+- 📫 How to reach me *vishalvishwakarma2786@gmail.com*
 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1hhKgELmt6HkVlGxIS2Xo5gNFX1FigZ5_/view?usp=sharing)
 
@@ -36,10 +36,12 @@
 <div>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://twitter.com/jay_zade" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="jay_zade"  /></a>
-<a href="https://linkedin.com/in/jaykumar01" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="jaykumar01"  /></a>
-<a href="https://instagram.com/slayerrr_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="hey.slayerrr"  /></a>
-<a href="https://www.hackerrank.com/jaykumarzade" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="jaykumarzade"  /></a>
+
+<a href="www.linkedin.com/in/
+vishal-vishwakarma-22b23b234
+" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="vishalvishwakarma"  /></a>
+<a href="https://www.instagram.com/vishal_vishwakarma_01?igsh=YzVkODRmOTdmMw==" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="vishalvishwakarma"  /></a>
+
      <a href="https://github.com/Jayzade131" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"  /></a>
 </p>
 <br>
