@@ -4,6 +4,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=Full+Stack+Java+Developer+From+India"></img>
 </a>
      </div>
+
+<div align= "center">
+<a href="#" align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=MERN+Stack+Java+Developer+From+India"></img>
+</a>
+</div>
      
 <br/>
 
